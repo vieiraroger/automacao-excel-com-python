@@ -1,0 +1,1 @@
+Ele salva por cima ou seja remove formulas e graficos
